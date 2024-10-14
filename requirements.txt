@@ -1,0 +1,6 @@
+nltk==3.9.1
+Pillow==10.4.0
+pytesseract==0.3.13
+Requests==2.32.3
+textblob==0.18.0.post0
+transformers==4.45.2
